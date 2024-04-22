@@ -34,8 +34,8 @@ Soy un ávido buscador de conocimiento, disfrutando cada oportunidad de aprender
 
 Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/raul-fernandez-056baa234)
-Correo electrónico: [![Email](https://img.shields.io/badge/Email-Enviar%20un%20correo%20electrónico-blue?style=flat-square&logo=gmail)](mailto:rafernandez21@hotmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Con%C3%A9ctate%20conmigo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/RaulFernandezDavila)
+[![Email](https://img.shields.io/badge/Email-Enviar%20un%20correo%20electrónico-blue?style=flat-square&logo=gmail)](mailto:rafernandez21@hotmail.com)
 
 
 ### ¡Happy coding! 🚀
