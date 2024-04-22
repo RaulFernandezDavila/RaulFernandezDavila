@@ -28,14 +28,16 @@ Soy un ávido buscador de conocimiento, disfrutando cada oportunidad de aprender
 
 <br/>
 
-##Futuros lenguajes que quiero aprender
-<div>
+## Futuros lenguajes que quiero aprender
+
+<div align="center"> 
 <code><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></code>
 <code><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></code>
 <code><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
 
     
 </div>
+<br/>
 
 
 
