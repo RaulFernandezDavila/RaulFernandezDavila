@@ -28,13 +28,22 @@ Soy un ávido buscador de conocimiento, disfrutando cada oportunidad de aprender
 
 <br/>
 
+##Futuros lenguajes que quiero aprender
+<div>
+<code><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></code>
+<code><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></code>
+<code><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
+
+    
+</div>
+
 
 
 ## Contacto 📫
 
 Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Con%C3%A9ctate%20conmigo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/RaulFernandezDavila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Con%C3%A9ctate%20conmigo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raul-fernandez-056baa234/)
 [![Email](https://img.shields.io/badge/Email-Enviar%20un%20correo%20electrónico-blue?style=flat-square&logo=gmail)](mailto:rafernandez21@hotmail.com)
 
 
